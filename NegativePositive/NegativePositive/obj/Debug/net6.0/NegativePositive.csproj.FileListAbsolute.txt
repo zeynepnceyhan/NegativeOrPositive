@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\bin\Debug\net6.0\NegativePositive.exe
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\bin\Debug\net6.0\NegativePositive.deps.json
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\bin\Debug\net6.0\NegativePositive.runtimeconfig.json
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\bin\Debug\net6.0\NegativePositive.dll
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\bin\Debug\net6.0\NegativePositive.pdb
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.dll
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\refint\NegativePositive.dll
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.pdb
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\NegativePositive.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\NegativePositive\NegativePositive\obj\Debug\net6.0\ref\NegativePositive.dll
